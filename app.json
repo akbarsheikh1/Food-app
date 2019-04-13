@@ -1,0 +1,13 @@
+
+{
+  "expo": {
+   "name": "Food",
+   "icon": "./assets/food.png",
+   "version": "1.0.0",
+   "slug": "foodie",
+   "sdkVersion": "32.0.0",
+   "android": {
+     "package": "com.akbar.food"
+   }
+  }
+}
